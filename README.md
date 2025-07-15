@@ -7,7 +7,7 @@ Hi there! 👋 I'm a Computer Science student and junior developer focused on bu
 - Learning web scraping & lead generation
 - Exploring REST APIs with Flask
 
-### Soft skills are:
+### Soft Skills:
 - Python automation
 - Web scraping 
 - Flask-based apps
