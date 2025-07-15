@@ -1,5 +1,21 @@
-# 💫 About Me:
-## Hi there 👋<br><br><!--<br>**touseef7878/touseef7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>--><br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on **web development** projects as a junior developer.<br>- 🌱 I’m currently learning **web scraping**, **lead generation**, and building **RESTful web apps**.<br>- I’m looking to collaborate on **Python-based automation and Flask web apps**.<br>-I’m looking for help with **scaling web scraping and improving data pipelines**.<br>- 💬 Ask me about **Flask, Web Scraping, Lead Gen tools, and API integration**.<br>- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-username)** or email at yourname@email.com<br>-<br><br>
+## 💫 About Me
+
+Hi there! 👋 I'm a Computer Science student and junior developer focused on building web apps and automation tools.
+
+### 🚀 Currently:
+- A junior web developer working on full-stack web projects
+- Learning web scraping & lead generation
+- Exploring REST APIs with Flask
+
+### Soft skills are:
+- Python automation
+- Web scraping 
+- Flask-based apps
+
+### 📫 Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/touseef-ur-rehman-6b2888372)
+- 📧 touseefurrehman5554@gmail.com
+
 
 
 ## 🌐 Socials:
