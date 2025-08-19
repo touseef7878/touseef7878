@@ -1,16 +1,30 @@
-## 💫 About Me
+# 💫 About Me  
 
-Hi there! 👋 I'm a Computer Science student and junior developer focused on building web apps and automation tools.
+👋 Hi, I'm **Touseef** — a **Computer Science student** and a passionate **junior developer**.  
+I love building **smart applications** with Python, **modern websites** with WordPress, and exploring the world of **Machine Learning & AI**.  
 
-### 🚀 Currently:
-- A junior web developer working on full-stack web projects
-- Learning web scraping & lead generation
-- Exploring REST APIs with Flask
+---
 
-### Soft Skills:
-- Python automation
-- Web scraping 
-- Flask-based apps
+## 🚀 What I'm Currently Doing  
+- 🌐 Developing **full-stack web projects**  
+- 📝 Learning & building with **WordPress** (e-commerce & portfolio websites)  
+- 🤖 Exploring **Machine Learning & AI** (clustering, predictive models, neural networks)  
+- ⚡ Working on **web scraping**  
+
+---
+
+## 💡 Core Skills  
+- 🐍 **Python Development** → automation, data analysis, scripting  
+- 🌍 **Web Development** → Flask, WordPress, HTML, CSS, JavaScript  
+- 🤖 **Machine Learning & AI** → supervised/unsupervised learning, neural networks  
+- 🔎 **Web Scraping** → data extraction & automation  
+
+---
+
+## 🌟 Soft Skills  
+- 🧩 Problem-solving & logical thinking  
+- 🔄 Adaptability & continuous learning  
+- 🤝 Team collaboration & communication  
 
 ### 📫 Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/touseef-ur-rehman-6b2888372)
