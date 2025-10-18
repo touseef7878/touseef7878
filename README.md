@@ -1,34 +1,34 @@
 # 💫 About Me  
 
-👋 Hi, I'm **Touseef** — a **Computer Science student** and a passionate **junior developer**.  
+Hi, I'm **Touseef** — a **Computer Science student** and a passionate **junior developer**.  
 I love building **smart applications** with Python, **modern websites** with WordPress, and exploring the world of **Machine Learning & AI**.  
 
 ---
 
-## 🚀 What I'm Currently Doing  
-- 🌐 Developing **full-stack web projects**  
-- 📝 Learning & building with **WordPress** (e-commerce & portfolio websites)  
-- 🤖 Exploring **Machine Learning & AI** (clustering, predictive models, neural networks)  
-- ⚡ Working on **web scraping**  
+##  What I'm Currently Doing  
+-  Developing **full-stack web projects**  
+-  Learning & building with **WordPress** (e-commerce & portfolio websites)  
+-  Exploring **Machine Learning & AI** (clustering, predictive models, neural networks)  
+- ⚡Also Working on **web scraping**  
 
 ---
 
 ## 💡 Core Skills  
-- 🐍 **Python Development** → automation, data analysis, scripting  
-- 🌍 **Web Development** → Flask, WordPress, HTML, CSS, JavaScript  
-- 🤖 **Machine Learning & AI** → supervised/unsupervised learning, neural networks  
-- 🔎 **Web Scraping** → data extraction & automation  
+-  **Python Development** → automation, data analysis, scripting  
+-  **Web Development** → Flask, WordPress, HTML, CSS, JavaScript  
+-  **Machine Learning & AI** → supervised/unsupervised learning, neural networks  
+-  **Web Scraping** → data extraction & automation  
 
 ---
 
 ## 🌟 Soft Skills  
-- 🧩 Problem-solving & logical thinking  
-- 🔄 Adaptability & continuous learning  
-- 🤝 Team collaboration & communication  
+-  Problem-solving & logical thinking  
+-  Adaptability & continuous learning  
+-  Team collaboration & communication  
 
 ### 📫 Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/touseef-ur-rehman-6b2888372)
-- 📧 touseefurrehman5554@gmail.com
+- touseefurrehman5554@gmail.com
 
 
 
