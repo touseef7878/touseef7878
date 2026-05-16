@@ -7,8 +7,7 @@ I build intelligent systems using **Machine Learning**, develop **scalable web a
 
 ## What I'm Currently Doing  
 - Developing an **AI-Powered Marine Pollution Detection System** using Computer Vision (YOLO)  
-- Building **full-stack web applications** with Flask, React, and REST APIs  
-- Creating **WordPress websites** (e-commerce & portfolio solutions)  
+- Building **full-stack web applications** with Flask, React, and REST APIs    
 - Exploring **Machine Learning & Deep Learning** (CNNs, clustering, predictive models)  
 - Working on **automation, APIs, and web scraping systems**  
 
@@ -16,14 +15,13 @@ I build intelligent systems using **Machine Learning**, develop **scalable web a
 
 ## 💡 Core Skills  
 
-- **Python Development** → automation, AI models, data processing  
+- **Python Development** → Automation, AI models, data processing  
 - **Frontend Development** → React, HTML, CSS, JavaScript  
-- **Backend Development** → Flask, REST APIs, system integration  
+- **Backend Development** → Python Flask, REST APIs, system integration  
 - **Databases** → MySQL, SQLite, database design & queries  
-- **Machine Learning & AI** → supervised/unsupervised learning, neural networks  
+- **Machine Learning & AI** → Supervised/unsupervised learning, neural networks  
 - **Computer Vision** → YOLO, image & video processing  
-- **WordPress Development** → e-commerce & business websites  
-- **Web Scraping & Automation** → data extraction, bots, scripting  
+- **Web Scraping & Automation** → Data extraction, bots, scripting  
 
 ---
 
