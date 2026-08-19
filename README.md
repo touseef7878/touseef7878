@@ -16,7 +16,7 @@
 
 ### 🎯 About Me
 
-I'm a final-year Computer Science student in Pakistan, working at the intersection of **Machine Learning** and **full-stack engineering** — I build models, then build the products around them. My focus is computer vision and applied ML, backed by enough frontend and backend experience to ship a working app end to end rather than hand off a notebook.
+I'm a Computer Science graduate in Pakistan, working at the intersection of **Machine Learning** and **full-stack engineering** — I build models, then build the products around them. My focus is computer vision and applied ML, backed by enough frontend and backend experience to ship a working app end to end rather than hand off a notebook.
 
 - 🔭 Currently building an **AI-powered marine debris detection system** using YOLOv8 and computer vision
 - 🎓 Graduating in 2026, currently applying to Master's programs abroad
