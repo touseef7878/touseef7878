@@ -30,7 +30,7 @@ I'm a Computer Science graduate in Pakistan, working at the intersection of **Ma
 ### 🌊 Featured Project
 
 **AI-Powered Marine Debris Detection & Pollution Analysis**
-A computer vision pipeline built with YOLOv8 to detect and classify marine debris from coastal and underwater imagery, paired with a web dashboard for visualizing pollution analysis results — from model training to a deployed full-stack interface.
+A computer vision pipeline built with YOLOv26s to detect and classify marine debris from coastal and underwater imagery, OceanScan AI combines computer vision, time-series forecasting, authenticated user workflows, admin operations, and report generation in one website.Developed for academic research and marine conservation purposes.
 
 `YOLOv8` `OpenCV` `Python` `Flask` `React`
 
