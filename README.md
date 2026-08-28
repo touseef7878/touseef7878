@@ -18,8 +18,8 @@
 
 I'm a Computer Science graduate in Pakistan, working at the intersection of **Machine Learning** and **full-stack engineering** — I build models, then build the products around them. My focus is computer vision and applied ML, backed by enough frontend and backend experience to ship a working app end to end rather than hand off a notebook.
 
-- 🔭 Currently building an **AI-powered marine debris detection system** using YOLOv8 and computer vision
-- 🎓 Graduating in 2026, currently applying to Master's programs abroad
+- 🔭 Currently building an **AI-powered marine debris detection system** using YOLOv26s and computer vision
+- 🎓 Computer Science Graduate, currently applying to Master's programs abroad
 - 💼 Previously: ML Intern @ **Elevvo** · Web Developer @ **RedFort360**
 - 🌱 Sharpening my skills in deep learning architectures and model deployment
 - 💬 Ask me about computer vision, ML pipelines, or React/Flask applications
